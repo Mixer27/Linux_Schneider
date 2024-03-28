@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Do zrealizowania zadania wukorzystałem msgbox. Wydał mi się on idealny do przedstawienia krótkiej informacji.
+
 : ${DIALOG=dialog}
 
 : ${DIALOG_OK=0}
