@@ -30,6 +30,8 @@ print "Chłopcy:", avg_m
 print "Dziewczęta:", avg_f}
 ' StudentsPerformance.csv
 
+echo
+
 awk '
 BEGIN {
    FS = ","
@@ -116,7 +118,7 @@ BEGIN {
    gr_e_max = 0
 }
 {gsub(/\"/, "", $0)}
-/male/ { 
+/^male/ { 
    score = $7 + $8
 #   print $1, $2, $7, $8, score
    if ($2 == "group A") {
@@ -171,6 +173,8 @@ print "Gr D\t", gr_d_min, "\t", gr_d_max
 print "Gr E\t", gr_e_min, "\t", gr_e_max
 }
 ' StudentsPerformance.csv
+
+echo
 
 awk '
 BEGIN {

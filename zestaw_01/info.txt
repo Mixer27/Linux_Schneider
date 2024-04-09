@@ -1,0 +1,5 @@
+Informacje:
+Procesor: x86_64
+Jądro: Linux 6.2.0-34-generic #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2
+Aktualnie zalogowany użytkownik: mixon
+Katalog domowy aktualnie zalogowanego użytkownika: /home/mixon
