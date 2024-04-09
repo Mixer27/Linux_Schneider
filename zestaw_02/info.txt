@@ -1,0 +1,5 @@
+Informacje:
+Procesor: x86_64
+Jądro: Linux 5.4.0-166-generic #183-Ubuntu SMP Mon Oct 2 11:28:33 UTC 2023
+Aktualnie zalogowany użytkownik: mixon
+Katalog domowy aktualnie zalogowanego użytkownika: /home/mixon
